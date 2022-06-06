@@ -1,11 +1,11 @@
 I am a Junior Web Developer, passionate about programming, I love challenges and learning new things.
 
 
-> 🌍  I'm based in Argentina
+ 🌍  I'm based in Argentina
 > 
-> ✉️  You can contact me at berrfarias@gmail.com
+ ✉️  You can contact me at berrfarias@gmail.com
 > 
-> 🧠  I'm learning Typescript
+ 🧠  I'm learning Typescript
  
 
 <!---
