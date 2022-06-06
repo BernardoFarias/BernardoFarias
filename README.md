@@ -1,8 +1,10 @@
 I am a Junior Web Developer, passionate about programming, I love challenges and learning new things.
 
-🌍  I'm based in Argentina
+<ul>
+🌍  I'm based in Argentina<
 ✉️  You can contact me at berrfarias@gmail.com
 🧠  I'm learning Typescript
+ </ul>
 
 <!---
 BernardoFarias/BernardoFarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
