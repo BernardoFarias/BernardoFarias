@@ -7,28 +7,29 @@ Hello world! I'm Bernardo Farias, passionate about programming, I love challenge
 > 
 <b>* Programming language: </b>
 > 
-Javascript
+> Javascript
 > 
 <b>* Backend: </b>
 > 
-Nodejs Express Postgresql
+> Nodejs Express Postgresql
 > 
 <b>* Frontend: </b>
 > 
-React Redux CSS HTML
+> React Redux CSS HTML
 > 
 📌Proyects:
 > 
-Dogs App
+<b>*Dogs App </b>
 > 
 Technologies: 
 > 
 > Node.JS - Express - PostgreSQL - React - Redux - CSS
 
-E-Commerce
+<b>*E-Commerce </b>
 > 
 💬 Working on it!
-Technologies: 
+> 
+ Technologies: 
 > 
 > Node.JS - Express - PostgreSQL - React - Redux - CSS
 
