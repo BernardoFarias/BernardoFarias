@@ -1,7 +1,10 @@
-Hello world! I'm Bernardo Farias, passionate about programming, I love challenges and learning new things.
+Hello world 👋 
+> 
+I am Bernardo Farias, passionate about programming. I have knowledge in bussines administration & UX/UI Design.
+> 
+I love challenges and learning new technologies.
 
-
- 🌍  I'm based in Australia
+🌍 I'm based in Australia
 > 
 🖱️ Technologies:
 > 
