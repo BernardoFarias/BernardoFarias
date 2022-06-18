@@ -17,7 +17,7 @@ Hello world! I'm Bernardo Farias, passionate about programming, I love challenge
 > 
 > React Redux CSS HTML Figma UX/UI Design
 > 
-📌Proyects:
+📌Projects:
 > 
 <b>Dogs App </b>
 > 
