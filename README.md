@@ -4,7 +4,8 @@ Hello world! I'm Bernardo Farias, passionate about programming, I love challenge
  🌍  I'm based in Australia
 > 
 🖱️ Technologies:
-Programming language: 
+> 
+<b>Programming language: </b>
 > 
 Javascript
 > 
