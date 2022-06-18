@@ -15,7 +15,7 @@ Hello world! I'm Bernardo Farias, passionate about programming, I love challenge
 > 
 <b> Frontend: </b>
 > 
-> React Redux CSS HTML
+> React Redux CSS HTML Figma UX/UI Design
 > 
 📌Proyects:
 > 
