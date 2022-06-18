@@ -4,22 +4,32 @@ Hello world! I'm Bernardo Farias, passionate about programming, I love challenge
  🌍  I'm based in Australia
 > 
 🖱️ Technologies:
-Programming language:
-javascript
-
+Programming language: 
+> 
+Javascript
+> 
 Backend:
-nodejs express postgresql
-
+> 
+Nodejs Express Postgresql
+> 
 Frontend:
-react redux css3 html5
-
+> 
+React Redux CSS HTML
+> 
 📌Proyects:
+> 
 Dogs App
-Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS
+> 
+Technologies: 
+> 
+> Node.JS - Express - PostgreSQL - React - Redux - CSS
 
 E-Commerce
+> 
 💬 Working on it!
-Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS
+Technologies: 
+> 
+> Node.JS - Express - PostgreSQL - React - Redux - CSS
 
 📪 How to reach me:
 Email: berrfarias@gmail.com
