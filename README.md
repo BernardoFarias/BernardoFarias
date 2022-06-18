@@ -5,15 +5,15 @@ Hello world! I'm Bernardo Farias, passionate about programming, I love challenge
 > 
 🖱️ Technologies:
 > 
-<b>Programming language: </b>
+<b>* Programming language: </b>
 > 
 Javascript
 > 
-Backend:
+<b>* Backend: </b>
 > 
 Nodejs Express Postgresql
 > 
-Frontend:
+<b>* Frontend: </b>
 > 
 React Redux CSS HTML
 > 
