@@ -1,14 +1,27 @@
-I am a Junior Web Developer, passionate about programming, I love challenges and learning new things.
+Hello world! I'm Bernardo Farias, passionate about programming, I love challenges and learning new things.
 
 
- 🌍  I'm based in Argentina
+ 🌍  I'm based in Australia
 > 
- ✉️  You can contact me at berrfarias@gmail.com
-> 
- 🧠  I'm learning Typescript
- 
+🖱️ Technologies:
+Programming language:
+javascript
 
-<!---
-BernardoFarias/BernardoFarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend:
+nodejs express postgresql
+
+Frontend:
+react redux css3 html5
+
+📌Proyects:
+Dogs App
+Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS
+
+E-Commerce
+💬 Working on it!
+Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS
+
+📪 How to reach me:
+Email: berrfarias@gmail.com
+
+Linkedin: https://www.linkedin.com/in/bernardoefarias/
