@@ -100,7 +100,7 @@ Javascript Full Stack Developer, passionate about programming with knowledge in 
   </tr>
 </table>
 <br/>
-> 
+
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
