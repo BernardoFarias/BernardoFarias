@@ -102,7 +102,7 @@ Javascript Full Stack Developer, passionate about programming with knowledge in 
 <br/>
 
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+<img align="right" alt="This is an animated gif image, but it does not move" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - 🌍 I'm based in Australia
 - 🌱 Learning new technologies.
