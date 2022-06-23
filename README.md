@@ -1,8 +1,7 @@
 <h1 align="center">Hello World!, I'm Bernardo 👩‍💻</h1>
 
 Javascript Full Stack Developer, passionate about programming with knowledge in UX/UI design and background in Accounting/Business.
-> 
-I love challenges and learning new technologies.
+
 >
 <table align="center">
   <tr>
@@ -105,10 +104,10 @@ I love challenges and learning new technologies.
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source
+- 🌱 Learning new technologies.
+- 👯 Over 800 hours of code
 - 🌍 I'm based in Australia
-- ⚡ Fun fact: I know how to play a piano
+- ⚡ Team worker
 
 ### Lets connect through:
 
