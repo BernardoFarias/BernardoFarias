@@ -94,7 +94,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 ### Lets connect through:
 
-<a href="https://twitter.com/bhumika_tewary"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI"/></a>
+<a href="https://twitter.com/bhumika_tewary"><img src="https://icons8.com/icons/set/gmail"/></a>
 <a href="https://www.linkedin.com/in/bernardoefarias/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
