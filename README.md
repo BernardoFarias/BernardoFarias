@@ -104,9 +104,9 @@ Javascript Full Stack Developer, passionate about programming with knowledge in 
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
+- 🌍 I'm based in Australia
 - 🌱 Learning new technologies.
 - 👯 Over 800 hours of code
-- 🌍 I'm based in Australia
 - ⚡ Team worker
 
 ### Lets connect through:
