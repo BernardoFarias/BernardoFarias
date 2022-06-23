@@ -1,10 +1,9 @@
-Hello world 👋 
-> 
-I am Bernardo Farias, passionate about programming. I have knowledge in bussines administration & UX/UI Design.
+<h1 align="center">Hello World!, I'm Bernardo 👩‍💻</h1>
+
+Javascript Full Stack Developer, passionate about programming with knowledge in UX/UI design and background in Accounting/Business.
 > 
 I love challenges and learning new technologies.
-
-🌍 I'm based in Australia
+>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -104,13 +103,11 @@ I love challenges and learning new technologies.
 <br/>
 > 
 
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhumika 👩‍💻</h1>
-
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: bhumikatewary49@gmail.com
+- 🌍 I'm based in Australia
 - ⚡ Fun fact: I know how to play a piano
 
 ### Lets connect through:
