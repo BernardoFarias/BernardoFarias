@@ -111,7 +111,7 @@ Javascript Full Stack Developer, passionate about programming with knowledge in 
 
 ### Lets connect through:
 
-<a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "mailto: berrfarias.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href="https://www.linkedin.com/in/bernardoefarias/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
