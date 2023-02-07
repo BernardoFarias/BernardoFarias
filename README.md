@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!, I'm Bernardo 👩‍💻</h1>
 
-Javascript Full Stack Developer, passionate about programming with knowledge in UX/UI design and background in Accounting/Business.
+Javascript Full Stack Developer, passionate about programming with knowledge in UX/UI design and background in Accounting.
 
 >
 <table align="center">
